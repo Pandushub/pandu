@@ -1,0 +1,13 @@
+{
+  "name": "pandu-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Pandu — personal marketing site (web, AI, data).",
+  "author": "Pandu <panduchiluvuri7@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve ."
+  },
+  "keywords": ["portfolio", "personal-site", "web", "ai", "data"]
+}
